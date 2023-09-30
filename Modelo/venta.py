@@ -12,3 +12,4 @@ class Venta:
         self.__cuit_distribuidora = " "
         self.__id_cliente = id_cliente
         self.__nombre_cliente = nombre_cliente
+        

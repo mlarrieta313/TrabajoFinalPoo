@@ -15,7 +15,8 @@ class Venta:
         
         
         def agregar_articulo(self):
-            pass
+            print("probando...")
+            
         
         
         

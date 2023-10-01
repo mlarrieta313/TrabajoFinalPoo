@@ -13,3 +13,10 @@ class Venta:
         self.__id_cliente = id_cliente
         self.__nombre_cliente = nombre_cliente
         
+        
+        def agregar_articulo(self):
+            pass
+        
+        
+        
+        
